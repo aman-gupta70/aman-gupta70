@@ -114,16 +114,18 @@ A collaborative learning platform with authentication, quizzes, AI tutor support
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=aman-gupta70&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aman-gupta70&layout=compact&theme=tokyonight&hide_border=true" />
+  <img src="https://raw.githubusercontent.com/aman-gupta70/aman-gupta70/main/profile-summary-card-output/tokyonight/0-profile-details.svg" />
 </p>
 
 <p align="center">
-  <img width="95%" src="https://streak-stats.demolab.com?user=aman-gupta70&theme=tokyonight&hide_border=true" />
+  <img width="32%" src="https://raw.githubusercontent.com/aman-gupta70/aman-gupta70/main/profile-summary-card-output/tokyonight/1-repos-per-language.svg" />
+  <img width="32%" src="https://raw.githubusercontent.com/aman-gupta70/aman-gupta70/main/profile-summary-card-output/tokyonight/2-most-commit-language.svg" />
+  <img width="32%" src="https://raw.githubusercontent.com/aman-gupta70/aman-gupta70/main/profile-summary-card-output/tokyonight/3-stats.svg" />
 </p>
 
 <p align="center">
-  <img width="95%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=aman-gupta70&theme=tokyonight" />
+  <img width="49%" src="https://streak-stats.demolab.com?user=aman-gupta70&theme=tokyonight&hide_border=true" />
+  <img width="49%" src="https://github-readme-activity-graph.vercel.app/graph?username=aman-gupta70&theme=tokyo-night&hide_border=true" />
 </p>
 
 ---
@@ -160,10 +162,10 @@ A collaborative learning platform with authentication, quizzes, AI tutor support
 
 ---
 
-## 🐍 Contribution Snake
+## 📈 Contribution Graph
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/aman-gupta70/aman-gupta70/output/github-contribution-grid-snake-dark.svg" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=aman-gupta70&theme=tokyo-night&hide_border=true" />
 </p>
 
 ---
